@@ -28,6 +28,6 @@ Steps to reproduce this project
 folder with the data sources.
 3. The script will check the current path, download the zip file with 
 the data sources and unzip. 
-4.A new folder will be created as per the content of the zip file.
-5.Run the R script run_analysis.r that takes you all the way to point 5 and creates a tidy data set into a txt file.
+4. A new folder will be created as per the content of the zip file.
+5. Run the R script run_analysis.r that takes you all the way to point 5 and creates a tidy data set into a txt file.
 
